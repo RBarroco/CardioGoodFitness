@@ -1,5 +1,5 @@
 If the project is not visible on github, you can use this link:<br/>
-https://nbviewer.jupyter.org/github/RBarroco/web-scrapping-indeed/blob/master/webscraping-indeed-15.ipynb
+https://nbviewer.jupyter.org/github/RBarroco/CardioGoodFitness/blob/master/Project-CardioGoodFitness-RenatoBarroco.ipynb
 
 <b>Exploratory Data Analysis in python</b>
 
